@@ -238,6 +238,45 @@ Concepts and tools I use to build autonomous systems that work in the real world
 
 <br/>
 
+## 🎯 Where to See My Work
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎨 Behance
+Design case studies: mobile apps, websites and product UI, with the full process behind each.
+
+[View my designs →](https://www.behance.net/nasmir1)
+
+</td>
+<td width="33%" valign="top">
+
+### 💼 Upwork
+Delivered client projects and reviews, and the place to hire me directly.
+
+[View my profile →](https://www.upwork.com/freelancers/~012456382034bb8991)
+
+</td>
+<td width="33%" valign="top">
+
+### 💻 GitHub
+Code for my web apps, AI agents and automations, added as I publish each project.
+
+[Browse my repos →](https://github.com/AnssAmir?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnssAmir&layout=compact&hide_border=true&bg_color=0B0B14&title_color=7C5CFF&text_color=C9D1D9&border_radius=16" alt="top languages"/>
+
+</div>
+
+<br/>
+
 ## 🤝 Let's Build Something
 
 <div align="center">
